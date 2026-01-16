@@ -1,0 +1,10 @@
+Jet engine blade inspection is critical for detecting cracks caused by fatigue.
+Thermal barrier coatings improve turbine blade durability at high temperatures.
+Predictive maintenance helps reduce aircraft engine failure risks.
+Vibration analysis is commonly used for fault detection in rotating machinery.
+Non-destructive testing methods include ultrasonic and radiographic inspection.
+Aircraft engine efficiency can be improved using advanced materials.
+Oil debris monitoring helps detect early engine wear and tear.
+Gas turbine engines require periodic borescope inspections.
+Machine learning models can predict remaining useful life of engine components.
+Aerospace safety standards require strict validation of AI-based systems.
