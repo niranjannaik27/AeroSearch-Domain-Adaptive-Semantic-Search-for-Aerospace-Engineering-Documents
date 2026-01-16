@@ -50,5 +50,5 @@ AeroSearch addresses these challenges by using **semantic embeddings and domain-
 
 ---
 
-## 📁 Project Structure
+
 
